@@ -9,7 +9,7 @@ permissions:
   statuses: write # This is needed to update status checks.
 
 concurrency:
-  group: ${{ github.head_ref }}
+  group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
