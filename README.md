@@ -21,7 +21,7 @@ The game will be deployed on **GitHub Pages**, making it easy to access and play
 
 For those unfamiliar with *Catan*, players collect resources like wood, brick, wheat, sheep, and ore by building settlements near resource tiles. These resources are then used to build roads, settlements, and cities to expand their reach and earn victory points. The goal of the game is to be the first player to reach a set number of victory points through building, trading, and strategy.
 
-For a detailed explanation of the rules, please refer to [the rules page](#) (link coming soon).
+For a detailed explanation of the rules, please refer to [the rules page]() (link coming soon).
 
 ## Technologies Used
 
@@ -35,13 +35,13 @@ The game is simple to access and play:
 2. Start a new game and follow the on-screen prompts to set up players.
 3. Play with others by taking turns on the same device, interacting through a click-based interface.
 
-Since this is a static website, no hosting or server setup is required. Simply open the game in a browser and start playing!
+Since this is a static site, no hosting or server setup is required. Simply open the game in a browser and start playing!
 
 ## Contributing
 
 Contributions are welcome! To contribute:
 1. Fork this repository.
-2. Create a new branch for your feature or bug fix.
+2. Create a new branch for your feature or bugfix.
 3. Submit a pull request with a detailed description of your changes.
 
 Before contributing, make sure to follow the code formatting guidelines provided in the `.vscode/settings.json` file. Additionally, Super Linter will verify code quality for all pull requests.
