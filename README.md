@@ -21,7 +21,7 @@ The game will be deployed on **GitHub Pages**, making it easy to access and play
 
 For those unfamiliar with *Catan*, players collect resources like wood, brick, wheat, sheep, and ore by building settlements near resource tiles. These resources are then used to build roads, settlements, and cities to expand their reach and earn victory points. The goal of the game is to be the first player to reach a set number of victory points through building, trading, and strategy.
 
-For a detailed explanation of the rules, please refer to [the rules page]() (link coming soon).
+For a detailed explanation of the rules, please refer to <ins>the rules page</ins> (link coming soon).
 
 ## Technologies Used
 
