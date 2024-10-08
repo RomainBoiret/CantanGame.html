@@ -8,7 +8,7 @@ permissions:
   contents: read # This is sufficient for read access.
   statuses: write # This is needed to update status checks.
 
-concurrency: 
+concurrency:
   group: ${{ github.head_ref }}
   cancel-in-progress: true
 
